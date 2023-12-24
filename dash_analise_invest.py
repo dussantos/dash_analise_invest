@@ -1,4 +1,4 @@
-pip install yfinance pymannkendall dash pyngrok
+#!pip install yfinance pymannkendall dash pyngrok
 
 import yfinance as yf
 import pandas as pd
