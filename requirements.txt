@@ -1,3 +1,5 @@
 dash==2.14.1
 pandas
 gunicorn
+yfinance
+pymannkendall
