@@ -47,7 +47,7 @@ def plot_stock_chart(data, local_max, local_min, trend_lines):
 
 # Instância do Dash
 app = dash.Dash(__name__)
-server - app.server
+server = app.server
 # Layout do aplicativo Dash com navbar
 app.layout = html.Div(style={'textAlign': 'center'}, children=[
         html.Nav(style={'backgroundColor': '#000000', 'padding': '10px', 'display': 'flex', 'justify-content': 'space-between','border-radius': '12px','text-align': 'center'}, children=[
