@@ -98,7 +98,7 @@ app.layout = html.Div(style={'textAlign': 'center'}, children=[
     html.Br(),
     html.Br(),
     html.Footer(style={'padding-bottom': '40px','background-color': 'white', 'color': 'black',  'bottom': '0', 'border': '1px solid #000000', 'height': '10px', 'border-radius': '10px',}, children=[
-        html.P("Copyright © 2023 - PEDAL. Todos os direitos reservados.")
+        html.P("Copyright © 2024 - PEDAL. Todos os direitos reservados.")
     ])
 ])
 
